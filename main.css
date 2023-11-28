@@ -1,0 +1,40 @@
+.peronorigen {
+    width: 1250px;
+    height: 610px;
+    display: block;
+    margin: auto;
+  }
+  .peron2 {
+    width: 1250px;
+    height: 610px;
+    display: block;
+    margin: auto;
+  }
+  .peron3 {
+    width: 1250px;
+    height: 610px;
+    display: block;
+    margin: auto;
+  }
+  
+  .peron5 {
+    position: absolute;
+    background-color: aqua;
+    top: 100px;
+    left: 400px;
+  }
+  
+  .textoperon2 {
+    position: absolute;
+    background-color: aqua;
+    top: 100px;
+    left: 400px;
+  }
+  
+  .textoperon3 {
+    position: absolute;
+    background-color: aqua;
+    top: 100px;
+    left: 400px;
+  }
+  
